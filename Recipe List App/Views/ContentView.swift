@@ -29,6 +29,7 @@ struct ContentView: View {
                         }
                     }
                 )
+                .navigationBarTitle("All Recipes")
                 
             }
         }
